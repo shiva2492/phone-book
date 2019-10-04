@@ -7,7 +7,7 @@ Rest api for phonebook
 ## Requirements
 
  - [Node v10>=](https://nodejs.org/en/download/current/) or [Docker](https://www.docker.com/)
- - [Yarn](https://yarnpkg.com/en/docs/install)
+ - [NPM](https://www.npmjs.com/get-npm)
 
 ## Getting Started
 
